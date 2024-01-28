@@ -1,5 +1,6 @@
 
-![background PNG](https://github.com/NittuzDev/NittuzDev/assets/65552181/9e82e711-b5ce-4224-b13b-e42fe0c7c359)
+![banner](https://github.com/NittuzDev/NittuzDev/assets/65552181/6288aadb-750c-4a80-82e2-b227fd14a42d)
+
 
 
 
