@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![banner](https://github.com/NittuzDev/NittuzDev/assets/65552181/bd241d15-4eb4-4c1b-b0ec-91eda5515b19)
+
+
 <!--
 **NittuzDev/NittuzDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
