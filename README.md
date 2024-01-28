@@ -1,6 +1,6 @@
-### Hi there 👋
 
-![banner](https://github.com/NittuzDev/NittuzDev/assets/65552181/bd241d15-4eb4-4c1b-b0ec-91eda5515b19)
+![background PNG](https://github.com/NittuzDev/NittuzDev/assets/65552181/9e82e711-b5ce-4224-b13b-e42fe0c7c359)
+
 
 
 <!--
