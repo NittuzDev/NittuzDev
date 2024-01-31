@@ -1,7 +1,7 @@
 
 ![banner](https://github.com/NittuzDev/NittuzDev/assets/65552181/6288aadb-750c-4a80-82e2-b227fd14a42d)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/nicola-bertoli/)](https://www.linkedin.com/in/nicola-bertoli/)
+## About me:
 
 :school: Currently working as a Solution Architect @IBM Client Engineering, IT</br>
 :fountain_pen: I have a passion for technology and open-source</br>
@@ -9,6 +9,7 @@
 :video_game: As well as play video games</br>
 :mailbox: How to reach me: <a href="mailto:nicola.bertoli@outlook.it">nicola.bertoli@outlook.it</a>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/nicola-bertoli/)](https://www.linkedin.com/in/nicola-bertoli/)
 
 ## Technical Skills:
 <div>
@@ -16,7 +17,8 @@
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,androidstudio,html,js,css,nodejs,python,php,aws,azure,openshift,ansible,git,github,jquery,linux,nginx,postgres,mysql)](https://skillicons.dev)
 
  <img width=50px src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ibm_cloud_logo_icon_169019.png">&nbsp;
-  
+ <img width=50px src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ibm_cloud_logo_icon_169019.png">&nbsp;
+ 
   <!--<img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
  
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
