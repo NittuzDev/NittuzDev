@@ -3,7 +3,7 @@
 
 ## About me:
 
-:school: Currently working as a Solution Architect @IBM Client Engineering, IT</br>
+:school: Currently working as a Solutions Architect @IBM Client Engineering, IT</br>
 :fountain_pen: I have a passion for technology and open-source</br>
 :computer: I love PC building and computer hardware</br>
 :video_game: As well as play video games</br>
