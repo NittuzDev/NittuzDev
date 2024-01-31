@@ -10,10 +10,10 @@
 :mailbox: How to reach me: <a href="mailto:nicola.bertoli@outlook.it">nicola.bertoli@outlook.it</a>
 
 
-## Languages and Tools:
+## Technical Skills:
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,androidstudio,html,js,css,nodejs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,androidstudio,html,js,css,nodejs,python,php,aws,azure,openshift,ansible,git,github,jquery,linux,windows,nginx,postgres,mysql)](https://skillicons.dev)
 
   
   <!--<img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
