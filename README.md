@@ -1,7 +1,6 @@
 
 ![banner](https://github.com/NittuzDev/NittuzDev/assets/65552181/6288aadb-750c-4a80-82e2-b227fd14a42d)
 
-<h3 align="left">Connect with me:</h3>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/nicola-bertoli/)](https://www.linkedin.com/in/nicola-bertoli/)
 
 :school: Currently working as a Solution Architect @IBM Client Engineering, IT</br>
